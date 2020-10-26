@@ -1,1 +1,1 @@
-#A simple pong-game in pygame
+# A simple pong-game in pygame
